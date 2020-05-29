@@ -8,3 +8,4 @@ tags: [brujos,español]
 
 [DESCARGAR => Malleus Maleficarum (El martillo de los brujos)](http://raboninco.com/lrfE)
 
+![image tooltip here](/images/Malleus-Maleficarum-(El-martillo-de-los-brujos).png)
