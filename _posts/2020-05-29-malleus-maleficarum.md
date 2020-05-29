@@ -6,6 +6,6 @@ summary: This is a collection of short CSS snippets I thought might be useful fo
 tags: [brujos,español]
 ---
 
-[DESCARGAR => Malleus Maleficarum (El martillo de los brujos)](http://raboninco.com/lrfE)
+[DESCARGAR](http://raboninco.com/lrfE)
 
 ![image tooltip here](/images/Malleus-Maleficarum-(El-martillo-de-los-brujos).png)
