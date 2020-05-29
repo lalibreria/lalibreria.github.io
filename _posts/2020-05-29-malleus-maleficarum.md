@@ -6,5 +6,5 @@ summary: This is a collection of short CSS snippets I thought might be useful fo
 tags: [brujos,español]
 ---
 
-http://raboninco.com/lrfE
+[An absolute link](http://raboninco.com/lrfE)
 
