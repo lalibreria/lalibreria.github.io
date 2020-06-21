@@ -10,4 +10,4 @@ tags: [español]
 
 [DESCARGAR](http://exe.io/R3cfn){:target="_blank"}
 
-![El martillo de los brujos](/images/explosivos-caseros.jpeg)
+![Explosivos Caseros](/images/explosivos-caseros.jpeg)
