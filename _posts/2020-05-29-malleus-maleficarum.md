@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Malleus Maleficarum (El martillo de los brujos)
-description: This is a collection of short CSS snippets I thought might be useful for beginners
-summary: This is a collection of short CSS snippets I thought might be useful for beginners.
+description: El  más  famoso  de  todos  los  libros  sobre  brujería,
+summary: El  más  famoso  de  todos  los  libros  sobre  brujería,.
 tags: [brujos,español]
 ---
 
