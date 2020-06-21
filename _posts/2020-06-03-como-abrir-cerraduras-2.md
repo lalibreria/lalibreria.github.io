@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo Abrir Cerradurras #2
+title: Cómo Abrir Cerraduras #2
 description: MIT del Lock Picking 
 summary: MIT del Lock Picking.
 tags: [español]
