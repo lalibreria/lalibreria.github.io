@@ -6,6 +6,6 @@ summary: El  más  famoso  de  todos  los  libros  sobre  brujería,.
 tags: [brujos,español]
 ---
 
-[DESCARGAR](https://fc.lc/sRMV7)
+[DESCARGAR](https://fc.lc/sRMV7){:target="_blank"}
 
 ![El martillo de los brujos](/images/Malleus-Maleficarum-(El-martillo-de-los-brujos).png)
