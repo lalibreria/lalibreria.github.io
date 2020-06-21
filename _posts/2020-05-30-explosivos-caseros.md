@@ -8,6 +8,6 @@ era en inglés y se distribuía en archivos zip.
 tags: [español]
 ---
 
-[DESCARGAR](http://exe.io/yc62){:target="_blank"}
+[DESCARGAR](http://exe.io/R3cfn){:target="_blank"}
 
 ![El martillo de los brujos](/images/explosivos-caseros.jpeg)
