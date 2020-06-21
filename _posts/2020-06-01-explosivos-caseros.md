@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Manual de Explosivos Caseros
-description: Esta obra  empezó a circular en la red casi desde la aparición del internet, su formato original 
-era en inglés y se distribuía en archivos zip,
-summary: Esta obra  empezó a circular en la red casi desde la aparición del internet, su formato original 
-era en inglés y se distribuía en archivos zip.
+description: Esta obra  empezó a circular en la red casi desde la aparición del internet
+summary: Esta obra  empezó a circular en la red casi desde la aparición del internet.
 tags: [español]
 ---
 
